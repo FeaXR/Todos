@@ -14,8 +14,8 @@
  This project is published under MIT lincense, so You can use it as you wish, be it a personal or commercial project, you can modify it, reuse the whole, or parts of it, but just on your own responsibitity. The creator (me) can't be held responsible for any damages caused by this software.
 
 # Screenshots
-![Dashboard](https://github.com/krachi9/Todos/SampleImages/blob/master/dashboard.png)
-![Index](https://github.com/krachi9/Todos/SampleImages/blob/master/index.png)
-![New Task](https://github.com/krachi9/Todos/SampleImages/blob/master/newtask.png)
-![New Subject](https://github.com/krachi9/Todos/SampleImages/blob/master/newsubject.png)
-![Sort](https://github.com/krachi9/Todos/SampleImages/blob/master/sort.png)
+![Dashboard](https://github.com/krachi9/Todos/blob/master/SampleImages/dahboard.png)
+![Index](https://github.com/krachi9/Todos/blob/master/SampleImages/index.png)
+![New Task](https://github.com/krachi9/Todos/blob/master/SampleImages/newtask.png)
+![New Subject](https://github.com/krachi9/Todos/blob/master/SampleImages/newsubject.png)
+![Sort](https://github.com/krachi9/Todos/blob/master/SampleImages/sort.png)
